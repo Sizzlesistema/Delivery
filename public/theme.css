@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #ff5722;
+    --secondary-color: #ffffff;
+    --background-color: #f9f9f9;
+    --text-color: #333;
+    --accent-color: #ffcc80;
+}
+
+.hidden {
+    display: none;
+}
