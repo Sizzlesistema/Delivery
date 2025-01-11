@@ -3,7 +3,6 @@
     "builds": [
         { "src": "api/*.py", "use": "@vercel/python" }
     ],
-    "public": "public",
     "routes": [
         { "src": "/(.*)", "dest": "/public/index.html" }
     ]
